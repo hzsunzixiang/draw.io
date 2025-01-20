@@ -4,16 +4,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aXUyLuBlfdVFDVXeSQcr-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="270" y="70" width="150" height="290" as="geometry" />
+        </mxCell>
         <mxCell id="fNBpvGHN1iZ3Em6MJ2G6-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;systemctl&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;命令行&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="283" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fNBpvGHN1iZ3Em6MJ2G6-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;systemd&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;code style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); background: var(--color-inline-code-background); border-radius: 4px; color: initial; margin: 0px 2px; font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; padding: 2px 4px; overflow-anchor: auto; text-align: left;&quot;&gt;daemon&lt;/code&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;进程&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="283" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fNBpvGHN1iZ3Em6MJ2G6-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-391" y="230" width="270" height="120" as="geometry" />
+        <mxCell id="fNBpvGHN1iZ3Em6MJ2G6-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-391" y="240" width="271" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fNBpvGHN1iZ3Em6MJ2G6-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;configure&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fNBpvGHN1iZ3Em6MJ2G6-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;configure&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-37" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fNBpvGHN1iZ3Em6MJ2G6-5" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fNBpvGHN1iZ3Em6MJ2G6-4" target="fNBpvGHN1iZ3Em6MJ2G6-3" edge="1">
@@ -98,7 +101,10 @@
           <mxGeometry x="-254" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aXUyLuBlfdVFDVXeSQcr-7" value="Application" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-371" y="230" width="60" height="30" as="geometry" />
+          <mxGeometry x="-381" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aXUyLuBlfdVFDVXeSQcr-9" value="&lt;span style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-weight: 600; color: initial; line-height: var(--md-box-samantha-normal-text-line-height); overflow-anchor: auto; font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;systemd 服务管理&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="274.5" y="70" width="137" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
