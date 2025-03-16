@@ -29,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4gN3m5vvTqZ1XDgv7lfD-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="4gN3m5vvTqZ1XDgv7lfD-32">
-          <mxGeometry x="220" y="50" width="9" height="16" as="geometry" />
+          <mxGeometry x="220" y="46" width="9" height="16" as="geometry" />
         </mxCell>
         <mxCell id="4gN3m5vvTqZ1XDgv7lfD-29" value="产品化能力" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;fontStyle=1;" vertex="1" parent="4gN3m5vvTqZ1XDgv7lfD-32">
           <mxGeometry x="251" y="9" width="81" height="54" as="geometry" />
