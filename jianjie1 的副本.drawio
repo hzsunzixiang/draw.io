@@ -1,0 +1,36 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
+  <diagram name="第 1 页" id="HoKP_vbM25ogzjFkeZG_">
+    <mxGraphModel dx="2063" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZJNieZwBA_IwEla6y5Go-6" value="" style="curved=1;endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeWidth=9;fillColor=#dae8fc;strokeColor=light-dark(#3333FF,#A8A8FF);flowAnimation=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-548" y="32" as="sourcePoint" />
+            <mxPoint x="412" y="182" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2" y="22" />
+              <mxPoint x="2" y="102" />
+              <mxPoint x="-568" y="102" />
+              <mxPoint x="-528" y="182" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X41ToKmTDQqfeZVgbjAH-1" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=1;curved=1;edgeStyle=orthogonalEdgeStyle;strokeColor=#FFCC99;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-540" y="30" as="sourcePoint" />
+            <mxPoint x="400" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-520" y="30" />
+              <mxPoint y="30" />
+              <mxPoint y="100" />
+              <mxPoint x="-550" y="100" />
+              <mxPoint x="-550" y="180" />
+              <mxPoint x="390" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
